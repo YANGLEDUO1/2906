@@ -5,7 +5,7 @@ const pool = mysql2.createPool({
     connectionLimit: 10,
     host: "10.10.20.15",
     user: "root",
-    password: "pwd_mariadb_01~!",
+    password: "xxxxx",
     database: "cloud",
     charset: 'utf8mb4'
 })
