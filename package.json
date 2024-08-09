@@ -1,0 +1,14 @@
+{
+  "name": "2906",
+  "module": "src/main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.0"
+  }
+}
